@@ -26,12 +26,19 @@ h2{
 .column {
     float: left;
     padding: 10px;
-  }
+}
   
-  .left, .right {
+.left, .right {
     width: 25%;
-  }
-  
-  .middle {
+}
+
+.middle {
     width: 50%;
-  }
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+}

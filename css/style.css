@@ -22,3 +22,16 @@ h3{
 h2{
     color: #66BFBF;
 }
+
+.column {
+    float: left;
+    padding: 10px;
+  }
+  
+  .left, .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
